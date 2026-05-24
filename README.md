@@ -26,15 +26,15 @@ Linux Administration, Self-Hosting, SSL/TLS, Networking Fundamentals
 ## 🚀 Projects That Represent My Work
 
 ### **Cotton Weed Detection AI Pipeline**  
-Represents my skill in ML Understanding with Flask + React
+Represents my skill in ML Understanding with Flask + React.
 Built an end-to-end computer vision system using YOLOv8 to analyze drone imagery and detect weed infestations. Designed to support precision agriculture and reduce manual inspection effort.
 
 ### **Self-Hosted GitLab on Kubernetes**  
-Represents my understanding in DevOps 
+Represents my understanding in DevOps. 
 Designed and deployed a private GitLab CE environment on Kubernetes, migrating from NodePort to an NGINX Ingress-based architecture. Implemented automated SSL/TLS and improved routing reliability—simulating real-world DevOps infrastructure challenges.
 
 ### **S&P 100 Hybrid Forecasting Model**
-Represents my understand of ML over usage of time-series data 
+Represents my understand of ML over usage of time-series data. 
 Developed a hybrid LSTM-GRU model to analyze financial time-series data and predict stock behavior. Focused on combining deep learning architectures for improved sequence modeling.
 
 ---
