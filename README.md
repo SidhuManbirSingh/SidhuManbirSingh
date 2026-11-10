@@ -7,7 +7,7 @@ My work sits at the intersection of **DevOps and applied machine learning**—fr
 
 ---
 
-## 🛠️ Technical Focus
+## Technical Focus
 
 **DevOps & Cloud (Core Strength)**  
 Kubernetes (Minikube, NGINX Ingress), Docker, GitLab CI/CD, Azure  
@@ -23,7 +23,7 @@ Linux Administration, Self-Hosting, SSL/TLS, Networking Fundamentals
 
 ---
 
-## 🚀 Projects That Represent My Work
+## Projects That Represent My Work
 
 ### **Cotton Weed Detection AI Pipeline**  
 Represents my skill in ML Understanding with Flask + React.
@@ -39,13 +39,13 @@ Developed a hybrid LSTM-GRU model to analyze financial time-series data and pred
 
 ---
 
-## 📈 What I’m Currently Working On
+## What I’m Currently Working On
 
 - Strengthening production-level Kubernetes deployments  
 - Building more **real-world ML + DevOps integrated systems**  
 - Improving system design and scalability skills
 - Backend Developer - Java Spring
-- 
+- Working over CCNP 
 
 ---
 
