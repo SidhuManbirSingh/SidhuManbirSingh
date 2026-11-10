@@ -49,7 +49,7 @@ Developed a hybrid LSTM-GRU model to analyze financial time-series data and pred
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - **Location:** Surrey, BC, Canada  
 - **Education:** Bachelor of Computer Information Systems with Conc. Networking (UFV)  
